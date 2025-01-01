@@ -1,3 +1,6 @@
 [submodule "myTools/g"]
 	path = myTools/g
 	url = git@github.com:voidint/g.git
+[submodule "myTools/go"]
+	path = myTools/go
+	url = git@github.com:golang/go.git
